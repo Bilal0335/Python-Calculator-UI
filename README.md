@@ -24,7 +24,7 @@ This calculator application supports the following operations:
    * Make sure you have Streamlit installed. If not, install it using
      ```
      pip install streamlit
-     ```.
+     ```
    * Run the app with the command:
      ```
      streamlit run app.py
