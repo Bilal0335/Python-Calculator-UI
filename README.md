@@ -76,11 +76,17 @@ if __name__ == "__main__":
 To get started with this project, follow these steps:
 
 1. Clone the repository:
-   ``` git clone https://github.com/Bilal0335/Python-Calculator-UI.git ```
-2. Navigate to the project directory:
-   ``` cd Python-Calculator-UI ```
-3. Install the required packages:
-   ``` pip install -r requirements.txt ```
+   ```
+   git clone https://github.com/Bilal0335/Python-Calculator-UI.git
+   ```
+3. Navigate to the project directory:
+   ```
+   cd Python-Calculator-UI
+   ```
+5. Install the required packages:
+   ```
+   pip install -r requirements.txt
+   ```
 
 ## 📝 **License**
 
