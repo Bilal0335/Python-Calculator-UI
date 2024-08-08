@@ -21,8 +21,14 @@ This calculator application supports the following operations:
 
 1. **Run the Application:**
 
-   * Make sure you have Streamlit installed. If not, install it using `pip install streamlit`.
-   * Run the app with the command: `streamlit run app.py`.
+   * Make sure you have Streamlit installed. If not, install it using
+     ```
+     pip install streamlit
+     ```.
+   * Run the app with the command:
+     ```
+     streamlit run app.py
+     ```
 2. **Interact with the Calculator:**
 
    * Enter the numbers in the provided fields.
