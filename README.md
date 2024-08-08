@@ -33,6 +33,8 @@ This calculator application supports the following operations:
 
    Here’s a snippet of the core code used for the calculator:
 
+```
+
 import streamlit as st
 
 def main():
@@ -63,7 +65,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+```
 
 ### 📂 **Project Structure**
 
