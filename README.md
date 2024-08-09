@@ -104,5 +104,5 @@ Feel free to contribute to this project by submitting issues or pull requests. Y
 
 ## 🌐 **Links**
 
-* **Live Application:** [Streamlit Calculator](https://calculator-py.streamlit.app/)
+* **Live Application:** [Streamlit Calculator](https://calculator-python.streamlit.app/)
 * **Source Code:** [GitHub Repository](https://github.com/Bilal0335/Python-Calculator-UI)
